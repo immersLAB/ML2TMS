@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Blank.unity
+    guid: f62bf66666e366c488a909aaf8596c52
+  - enabled: 0
+    path: Assets/Scenes/cube.unity
+    guid: a74796b581e9a2d41b490e78f5425529
+  - enabled: 0
+    path: Assets/Scenes/[MAIN GAME].unity
+    guid: d5dfc706ec342c549a39ff8e78ff0cba
+  - enabled: 1
+    path: Assets/Scenes/[DEMO].unity
+    guid: 8c80f0cdfb4b72c428e33fe217aedc8d
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c47808f3604c48c4d831d4a0ee1883a8,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 59affab6b20eb4d4cbdf659d48562214,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c642227a6d770f041af86470349fa094,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c50c00444476a0d4ea7d1551522a81f0,
+      type: 2}
